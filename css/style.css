@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+.main{
+    background-image: url(https://startbootstrap.github.io/startbootstrap-agency/assets/img/header-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 750px;
+}
+a{
+    text-decoration: none;
+}
+.sec-btn{
+    color: white;
+    padding: 20px 40px;
+    font-weight: 700;
+}
+#hero{
+    margin-top: 200px;
+}
+.head{
+    font-style: italic;
+    font-size: 36px;
+    line-height: 2.25rem;
+    margin-bottom: 2rem;
+
+}
+.head2{
+    font-size: 60px;
+
+}
+
+.items a{
+    color: white;
+    font-size: 16px;
+    letter-spacing: 2px;
+
+}
+.items {
+    padding: 0 20px;  
+}
+.items a:hover{
+    color: #ffc800;
+}
+.service{
+    margin-top: 100px;
+}
+.seritems{
+    margin-top: 50px;
+}
+.dicon{
+    color: white;
+    padding: 35px;
+    background: #ffc800;
+    border-radius: 50%;
+    font-size: 50px;
+} 
+.portfolio{
+    margin-top: 100px;
+   
+}
+.titles h2{
+    font-size: 40px;
+}
+.allcards{
+    position: relative;
+
+}
+.hover{
+    cursor: pointer;
+    position: absolute;
+    width: 400px;
+    height: 300px;
+    top: 0;
+    left: 0;
+    transition: 0.25;
+
+}
+.hover i{
+    padding-top: 120px;
+    color: white;
+
+}
+.hover:hover{
+    background: #ffc800;
+    opacity: 0.9;
+}
+.teamimg img{
+    width: 200px;
+}
+#team{
+    margin-top: 100px;
+}
+ form#contactForm .form-group input, form#contactForm .form-group textarea {
+  padding: 1.25rem;
+}
+#contactForm .form-group {
+    margin-bottom: 1.5rem;
+  }
+#contact {
+    margin-top: 100px;
+    background-color: #212529;
+    background-image: url("../images/map-image.png");
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+  .section-heading{
+    margin: 20px 0px;
+    color: white;
+  }
+  #submitbtn{
+    padding-top: 50px;
+  }
+  #submitbutton{
+    border: 0px;
+    padding: 20px;
+    background: #ffc800;
+  }
